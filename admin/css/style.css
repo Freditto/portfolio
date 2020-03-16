@@ -1,0 +1,49 @@
+.formadmin{
+    margin-left: 25%;
+    margin-right: 25%;
+}
+
+.logo{
+    margin-top: 100px;
+}
+
+.contx{
+    color: limegreen;
+}
+.userx{
+    color: yellow;
+}
+.manx{
+    color: darkorange;
+}
+.logoutx{
+    color: purple;
+}
+
+h1{
+    text-align: right;
+    color: black;
+    text-decoration: none;
+    
+}
+
+h1 a{
+    text-decoration: none;
+    font-size: 1.8em;
+    
+}
+.postzx{
+    font-size: 4em;
+}
+.one{
+    color: limegreen;
+}
+.two{
+    color: darkblue;
+}
+.three{
+    color: orange;
+}
+.rightcontentz{
+    margin-top: 100px;
+}

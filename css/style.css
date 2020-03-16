@@ -1,0 +1,36 @@
+.topview{
+    margin-top: 50px;
+    margin-bottom: 100px;
+}
+.container .social{
+    text-align: center;
+    
+    
+}
+
+.logocenter{
+    text-align: center;
+   
+}
+#developer{
+    text-align: center;
+}
+.named{
+    
+    font-size: 5em;
+    font-style: normal;
+    text-align: center;
+}
+
+.named span{
+    color: lightblue;
+}
+
+.mine{
+    text-align: center;
+    
+}
+
+.centerview{
+    margin-bottom: 50px;
+}
